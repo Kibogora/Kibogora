@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kibogora
 - 👀 I’m interested in java and Dart programming
 - 🌱 I’m currently learning advanced java
-- 💞️ I’m looking to collaborate on building mobile app using futter
+- 💞️ I’m looking to collaborate on building mobile app using flutter
 - 📫 How to reach me kibogora021@gmail.com
 
 <!---
